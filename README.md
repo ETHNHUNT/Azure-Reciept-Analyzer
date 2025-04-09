@@ -6,10 +6,9 @@ This project provides a tool for analyzing receipts using Azure Vision services.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/ETHNHUNT/Azure-Reciept-Analyzer.git
+    cd Azure-Reciept-Analyzer
     ```
-    *(Replace `<repository_url>` and `<repository_directory>` with actual values if applicable)*
 
 2.  **Install dependencies:**
     Ensure you have Python installed. Then, install the required packages:
