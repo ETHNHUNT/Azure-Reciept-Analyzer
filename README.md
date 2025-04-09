@@ -1,7 +1,4 @@
-# Azure-Reciept-Analyzer
-A Streamlit application using Azure Vision to analyze receipts.
-
-# Project Title (Replace with actual title)
+# Project Title: Azure-Reciept-Analyzer
 
 This project provides a tool for analyzing receipts using Azure Vision services.
 
