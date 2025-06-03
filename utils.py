@@ -73,8 +73,3 @@ def detect_receipt_type(text: str) -> str:
     else:
         return 'unknown'
 
-def process_receipts(self, all_results, timestamp, output_dir):
-    # Construct the full file path for Excel
-    excel_file_path = os.path.join(output_dir, f"receipt_results_{timestamp}.xlsx")
-    # Call with just 2 args (plus self implicitly)
-    excel_path = self._save_results_excel(all_results, excel_file_path) 
